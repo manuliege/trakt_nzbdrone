@@ -16,3 +16,5 @@ but this time to send only the new notifications (new episodes imported in nzbdr
 You stop the script at any time the usual way.
 
 If you get an error about the db, please update your DLL sqlite in your python installation.
+You also have to install "ConfigObj" (via pip).
+
